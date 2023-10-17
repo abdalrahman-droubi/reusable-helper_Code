@@ -1,0 +1,26 @@
+src/
+|-- components/
+|   |-- Button.js
+|   |-- Header.js
+|   |-- ...
+|-- containers/
+|   |-- Home.js
+|   |-- ProductList.js
+|   |-- ...
+|-- pages/
+|   |-- Home.js
+|   |-- About.js
+|   |-- Contact.js
+|   |-- ...
+|-- assets/
+|   |-- images/
+|   |-- styles/
+|   |-- Data/
+|-- utils/
+|   |-- helpers/
+|   |-- customHooks/
+|-- services/
+|-- App.js
+|-- index.js
+|-- ...
+
